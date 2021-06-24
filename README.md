@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kishanprajapat2564788
-- 👀 I’m interested in Study and Mathematics.
+- 👀 I’m interested in web development and Mathematics.
 - 🌱 I’m currently learning coding and languages
 - 💞️ I’m looking to collaborate on top companies
 - 📫 How to reach me Through social media and contact.
