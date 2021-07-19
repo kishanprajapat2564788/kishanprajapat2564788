@@ -1,10 +1,17 @@
-#  Hi 👋, I’m Kishan Prajapat 
-- 👀 I’m interested in web development and Mathematics.
-- 🌱 I’m currently learning coding and languages
-- 💞️ I’m looking to collaborate on top companies
-- 📫 How to reach me Through social media and contact.
+<h1 align="center">Hi 🖐, I'm Kishan Prajapat 👩‍💻</h1>
+<h3 align="center">The only way to do great work is to love what you do.</h3>
 
-<!---
-kishanprajapat2564788/kishanprajapat2564788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 👀 I’m interested in **web development and Mathematics.**<br>
+ - 🌱 I’m currently learning coding and languages.<br>
+ - 💞️ I’m looking to collaborate on top companies. <br>
+ - 👨‍💻 All of my projects are available in my [github account](https://github.com/kishanprajapat2564788?tab=repositories)
+ - 💬 Ask me about **HTML, CSS, JavaScript, Python**
+ - 📫 How to reach me **kishanprajapat2564788@gmail.com**
+ - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/kisu._.k" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="kishanInsta" height="80" width="80" /></a>
+
+
+
+
