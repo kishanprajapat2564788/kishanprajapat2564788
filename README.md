@@ -5,7 +5,7 @@
  - 🌱 I’m currently learning coding and languages.<br>
  - 💞️ I’m looking to collaborate on top companies. <br>
  - 👨‍💻 All of my projects are available in my [github account](https://github.com/kishanprajapat2564788?tab=repositories)
- - 💬 Ask me about **HTML, CSS, JavaScript, Python**
+ - 💬 Ask me about **HTML, CSS, JavaScript, Python, React JS, NextJS**
  - 📫 How to reach me **kishanprajapat2564788@gmail.com**
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
 <h3 align="left">Connect with me:</h3>
