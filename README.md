@@ -10,7 +10,7 @@
  - 💬 Ask me about **HTML, CSS, ReactStrap, BootStrap, JavaScript, Python, React JS, NextJS**
  - 📫 How to reach me **kishanprajapat2564788@gmail.com**
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
- - 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
  <a href="https://linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
