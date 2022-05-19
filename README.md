@@ -8,7 +8,7 @@
  - 💬 Ask me about **HTML, CSS, JavaScript, Python, React JS, NextJS**
  - 📫 How to reach me **kishanprajapat2564788@gmail.com**
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
-<h3 align="left">Connect with me:</h3>
+### 🤝🏻 &nbsp;<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/kisu._.k" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="kishanInsta" height="60" width="60" /></a>
   <a href="https://twitter.com/kishan____titan" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
