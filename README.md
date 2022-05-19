@@ -15,7 +15,7 @@
 <p align="left">
  <a href="https://github.com/kishanprajapat2564788" target="_blank"><img align="center" src="https://img.icons8.com/nolan/128/github.png" alt="kishanGitHub" height="60" width="60" /></a>
  <a href="mailto:kishanprajapat2564788@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/192/gmail-new.png" alt="kishanGmail" height="60" width="60" /></a>
- <a href="tel:6376892153" target="_blank"><img align="center" src="https://img.icons8.com/nolan/128/whatsapp.png" alt="kishanWhatsApp" height="60" width="60" /></a>
+ <a href="tel:+916376892153" target="_blank"><img align="center" src="https://img.icons8.com/nolan/128/whatsapp.png" alt="kishanWhatsApp" height="60" width="60" />Call</a>
  <a href="https://linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
   <a href="https://instagram.com/kisu._.k" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="kishanInsta" height="60" width="60" /></a>
   <a href="https://twitter.com/kishan____titan" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
