@@ -10,7 +10,7 @@
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
- <a href="www.linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
+ <a href="https://linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
   <a href="https://instagram.com/kisu._.k" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="kishanInsta" height="60" width="60" /></a>
   <a href="https://twitter.com/kishan____titan" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
 <a href="https://fb.com/thekishanprajapat" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="kishanFacebook" height="60" width="60" /></a>
