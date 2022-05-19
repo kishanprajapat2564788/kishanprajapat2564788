@@ -16,8 +16,7 @@
 </p>
 <p><a href="https://github.com/kishanprajapat2564788/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanprajapat2564788&layout=compact&theme=merko" />
-</a></p>
-<p><a href="https://github.com/kishanprajapat2564788/github-readme-stats">
+</a> <a href="https://github.com/kishanprajapat2564788/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanprajapat2564788&show_icons=true&theme=merko&line_height=27" alt="Kishan Prajapat's github stats" />
 </a></p>
 
