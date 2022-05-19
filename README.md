@@ -14,7 +14,7 @@
   <a href="https://twitter.com/kishan____titan" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
 <a href="https://fb.com/thekishanprajapat" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="kishanFacebook" height="60" width="60" /></a>
 </p>
-<br><br><br><br><br>
+<br><br>
 
 <hr>
   <p align="center">
