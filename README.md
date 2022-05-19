@@ -13,6 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
+ <a href="mailto:kishanprajapat2564788@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/192/gmail-new.png" alt="kishanGmail" height="60" width="60" /></a>
  <a href="https://linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
   <a href="https://instagram.com/kisu._.k" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="kishanInsta" height="60" width="60" /></a>
   <a href="https://twitter.com/kishan____titan" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
