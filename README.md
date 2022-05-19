@@ -3,7 +3,7 @@
 
 <img align="center" src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e479lmlskek0evjv9b60r56e1b6rx0d334yicz751ri&rid=giphy.gif&ct=s" width="220" alt="giphy">
 
- - 👀 I’m interested in **web development, Frontend Developmemnt and Full Stack Development.**<br>
+ - 👀 I’m interested in **Web development, Frontend Developmemnt and Full Stack Development.**<br>
  - 🌱 I’m currently working as Full Stack Developer.<br>
  - 💞️ I’m looking to collaborate on top companies. <br>
  - 👨‍💻 All of my projects are available in my [github account](https://github.com/kishanprajapat2564788?tab=repositories)
