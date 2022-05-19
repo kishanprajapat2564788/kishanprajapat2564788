@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐, I'm Kishan Prajapat 👩‍💻</h1>
 <h3 align="center">The only way to do great work is to love what you do.</h3>
 
-<img align='right' src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e479lmlskek0evjv9b60r56e1b6rx0d334yicz751ri&rid=giphy.gif&ct=s" width="220" alt="giphy">
+<img align="center" src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e479lmlskek0evjv9b60r56e1b6rx0d334yicz751ri&rid=giphy.gif&ct=s" width="220" alt="giphy">
 
  - 👀 I’m interested in **web development and Mathematics.**<br>
  - 🌱 I’m currently learning coding and languages.<br>
