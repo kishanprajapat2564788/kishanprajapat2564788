@@ -14,6 +14,8 @@
   <a href="https://twitter.com/kishan____titan" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="kishanTwitter" height="60" width="60" /></a>
 <a href="https://fb.com/thekishanprajapat" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="kishanFacebook" height="60" width="60" /></a>
 </p>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p><a href="https://github.com/kishanprajapat2564788/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanprajapat2564788&layout=compact&theme=merko" />
 </a> <a href="https://github.com/kishanprajapat2564788/github-readme-stats">
