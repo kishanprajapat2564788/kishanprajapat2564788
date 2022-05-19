@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖐, I'm Kishan Prajapat 👩‍💻</h1>
 <h3 align="center">The only way to do great work is to love what you do.</h3>
-<p>
+
  - 👀 I’m interested in **web development and Mathematics.**<br>
  - 🌱 I’m currently learning coding and languages.<br>
  - 💞️ I’m looking to collaborate on top companies. <br>
@@ -8,8 +8,6 @@
  - 💬 Ask me about **HTML, CSS, JavaScript, Python, React JS, NextJS**
  - 📫 How to reach me **kishanprajapat2564788@gmail.com**
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
- 
-</p>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
  <a href="https://linkedin.com/in/kishan-prajapat-828934170" target="_blank"><img align="center" src="https://img.icons8.com/color/192/linkedin.png" alt="kishanLinkedin" height="60" width="60" /></a>
