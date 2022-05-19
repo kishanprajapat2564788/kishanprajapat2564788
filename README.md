@@ -15,9 +15,9 @@
 <a href="https://fb.com/thekishanprajapat" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="kishanFacebook" height="60" width="60" /></a>
 </p>
 <p><a href="https://github.com/kishanprajapat2564788/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanprajapat2564788&layout=compact&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanprajapat2564788&layout=compact&theme=merko" />
 </a> <a href="https://github.com/kishanprajapat2564788/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanprajapat2564788&show_icons=true&theme=merko&line_height=27" alt="Kishan Prajapat's github stats" width="396"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kishanprajapat2564788&show_icons=true&theme=merko&line_height=27" alt="Kishan Prajapat's github stats" width="396"/>
 </a></p>
 
 
