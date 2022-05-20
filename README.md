@@ -76,7 +76,11 @@
    </a>
  &emsp;
   <a href="https://www.tutorialspoint.com/typescript/index.htm" target="_blank"> 
-     <img alt="ReactJS" src="https://img.icons8.com/color/192/typescript.png" height="50" width="50">
+     <img alt="TypeScript" src="https://img.icons8.com/color/192/typescript.png" height="50" width="50">
+   </a>
+ &emsp;
+  <a href="https://tailwindcss.com/docs/installation" target="_blank"> 
+     <img alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="50" width="50">
    </a>
 </p>
 <br><br>
