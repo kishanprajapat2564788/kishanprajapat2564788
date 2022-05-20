@@ -62,6 +62,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.icons8.com/color/192/css3.png" height="50" width="50">
   </a> 
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.icons8.com/nolan/192/javascript.png" height="50" width="50">
+   </a>
 </p>
 <br><br>
 
