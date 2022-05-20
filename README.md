@@ -70,6 +70,14 @@
   <a href="https://reactjs.org/" target="_blank"> 
      <img alt="ReactJS" src="https://img.icons8.com/officel/160/react.png" height="50" width="50">
    </a>
+ &emsp;
+  <a href="https://nextjs.org/docs/getting-started" target="_blank"> 
+     <img alt="NextJS" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="50" width="50">
+   </a>
+ &emsp;
+  <a href="https://www.tutorialspoint.com/typescript/index.htm" target="_blank"> 
+     <img alt="ReactJS" src="https://img.icons8.com/color/192/typescript.png" height="50" width="50">
+   </a>
 </p>
 <br><br>
 
