@@ -84,7 +84,7 @@
    </a>
  &emsp;
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> 
-     <img alt="bootstrap5" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-5-logo.png" height="40" width="50">
+     <img alt="bootstrap5" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-5-logo.png" height="50" width="60">
    </a>
 </p>
 <br><br>
