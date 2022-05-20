@@ -36,6 +36,10 @@
  &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.icons8.com/plasticine/200/c.png" height="50" width="50">
+  </a>
+ &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.icons8.com/color/192/c-plus-plus.png" height="50" width="50">
   </a> 
  </p>
 <br><br>
