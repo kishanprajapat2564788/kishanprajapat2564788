@@ -50,6 +50,19 @@
     <img alt="Python" src="https://img.icons8.com/fluency/192/python.png" height="50" width="50">
   </a>
  </p>
+ 
+ 
+ ### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.icons8.com/color/192/html-5--v1.png" height="50" width="50">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.icons8.com/color/192/css3.png" height="50" width="50">
+  </a> 
+</p>
 <br><br>
 
 <hr>
