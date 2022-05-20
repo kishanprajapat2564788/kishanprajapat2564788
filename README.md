@@ -88,7 +88,7 @@
    </a>
  &emsp;
   <a href="https://reactstrap.github.io/?path=/story/home-installation--page" target="_blank"> 
-     <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" height="50" width="50">
+     <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" height="90" width="90">
    </a>
 </p>
 <br><br>
