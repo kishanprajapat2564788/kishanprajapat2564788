@@ -82,6 +82,10 @@
   <a href="https://tailwindcss.com/docs/installation" target="_blank"> 
      <img alt="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" width="50">
    </a>
+ &emsp;
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> 
+     <img alt="bootstrap5" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-5-logo.png" height="50" width="50">
+   </a>
 </p>
 <br><br>
 
