@@ -86,6 +86,10 @@
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> 
      <img alt="bootstrap5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50" width="50">
    </a>
+ &emsp;
+  <a href="https://reactstrap.github.io/?path=/story/home-installation--page" target="_blank"> 
+     <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" >
+   </a>
 </p>
 <br><br>
 
