@@ -32,7 +32,7 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p align="left"> 
  &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.icons8.com/plasticine/200/c.png" height="50" width="50">
@@ -53,7 +53,7 @@
  
  
  ### 👉 Frontend Development
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.icons8.com/color/192/html-5--v1.png" height="50" width="50">
