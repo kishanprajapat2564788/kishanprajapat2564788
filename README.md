@@ -99,7 +99,7 @@
 <p><a href="https://github.com/kishanprajapat2564788/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanprajapat2564788&layout=compact&theme=tokyonight" />
 </a> <a href="https://github.com/kishanprajapat2564788/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kishanprajapat2564788&show_icons=true&theme=tokyonight&line_height=27" alt="Kishan Prajapat's github stats" width="396"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kishanprajapat2564788&show_icons=true&theme=tokyonight&line_height=27" alt="My github stats" width="396"/>
 </a></p>
 
 
