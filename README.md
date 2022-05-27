@@ -90,10 +90,6 @@
   <a href="https://reactstrap.github.io/?path=/story/home-installation--page" target="_blank"> 
      <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" width="250">
    </a>
- &emsp;
-  <a href="https://expressjs.com" target="_blank"> 
-     <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200" height="50">
-   </a>
 </p>
 <br><br>
 
