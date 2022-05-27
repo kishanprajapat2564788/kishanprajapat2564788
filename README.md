@@ -88,11 +88,11 @@
    </a>
  &emsp;
   <a href="https://reactstrap.github.io/?path=/story/home-installation--page" target="_blank"> 
-     <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" width="250">
+     <img alt="reactStrap" src="https://reactstrap.github.io/logo.svg" width="60" height="60">
    </a>
  &emsp;
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank"> 
-     <img alt="Express JS" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" width="">
+  <a href="https://expressjs.com" target="_blank"> 
+     <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="250">
    </a>
 </p>
 <br><br>
