@@ -92,7 +92,7 @@
    </a>
  &emsp;
   <a href="https://expressjs.com" target="_blank"> 
-     <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="100" height="150">
+     <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="100" height="10">
    </a>
 </p>
 <br><br>
