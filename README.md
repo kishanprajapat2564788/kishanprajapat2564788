@@ -52,7 +52,7 @@
  </p>
  
  
- ### 👉 Frontend Development
+ ### 👉 Full Stack Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
