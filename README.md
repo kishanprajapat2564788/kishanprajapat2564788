@@ -13,7 +13,7 @@
  - 📫 How to reach me **kishanprajapat2564788@gmail.com**
  - ⚡ Fun fact **One thing I know I do well (or better than most) is make people happy 🙂🙂**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px"> Connect with me
 <p align="left">
  <a href="https://github.com/kishanprajapat2564788" target="_blank"><img align="center" src="https://img.icons8.com/nolan/128/github.png" alt="kishanGitHub" height="60" width="60" /></a>
  <a href="mailto:kishanprajapat2564788@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/192/gmail-new.png" alt="kishanGmail" height="60" width="60" /></a>
